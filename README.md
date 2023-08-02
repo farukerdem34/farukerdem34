@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/fc421YtZqhJMcKxJ6s" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyber-cybersecurity-hackrocks-fc421YtZqhJMcKxJ6s">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Faruk</h1>
 <h3 align="center">A passionate web&network penetration tester.</h3>
 
