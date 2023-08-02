@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
 <h3 align="center">A passionate web&network penetration tester.</h3>
-<p >
+<p>
+  <p align="center">![](https://media.tenor.com/M3aWKubSVjMAAAAC/cybersecurity-bug.gif)</p>
 <p align="center">
     <p align="center">
     - 📫 How to reach me <b>farukomererdem2003@gmail.com</b>
