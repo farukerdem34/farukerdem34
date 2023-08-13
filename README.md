@@ -1,6 +1,7 @@
 <img align="right" height="300" src="https://media.tenor.com/M3aWKubSVjMAAAAC/cybersecurity-bug.gif"  />
 
 ###
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-erdem-65b426222/" target="_blank">
