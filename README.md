@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img align="left" height="50" src="https://tryhackme-badges.s3.amazonaws.com/lomarkomar.png"  />
+<img align="left" height="50" src="https://tryhackme-badges.s3.amazonaws.com/lomarkomar.png"  href="https://tryhackme.com/p/lomarkomar"/>
 
 ###
