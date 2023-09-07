@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Faruk</h1>
-<h3 align="center">A passionate web&network penetration tester.</h3>
 <p>
   <div align="center">
     <img src="https://media.tenor.com/M3aWKubSVjMAAAAC/cybersecurity-bug.gif"/>
