@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Faruk</h1>
-<p>
-  <div align="center">
+
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1000&color=00E94F&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Faruk!)](https://git.io/typing-svg)<p>
+  </div>
+
+
+<div align="center">
     <img src="https://media.tenor.com/M3aWKubSVjMAAAAC/cybersecurity-bug.gif"/>
   </div>
 
